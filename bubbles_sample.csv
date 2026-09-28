@@ -1,0 +1,4 @@
+filename,text1,pos1,text2,pos2,text3,pos3
+image1.png,こんにちは！,top-right,何してるの？,bottom-left,,
+image2.jpg,やめてくれ！,top-left,絶対に許さない！,bottom-right,なぜだ…,center
+image3.png,待って！,top-center,,,,

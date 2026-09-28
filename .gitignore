@@ -1,0 +1,18 @@
+# 鍵。絶対に入れない
+.env
+
+# 作業用の画像。容量が大きいうえ、作品の中身なので共有しない
+input/
+input_mosaic/
+output/
+__pycache__/
+*.pyc
+
+# 実際の作品のセリフ。サンプルだけ残す
+bubbles.csv
+bubbles_*.csv
+!bubbles_sample.csv
+context*.txt
+
+# Windowsのショートカット
+*.lnk
